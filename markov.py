@@ -2,9 +2,18 @@ import sys
 
 
 def make_chains(corpus):
-    """Takes input text as string; returns dictionary of markov chains."""
+    """Takes input list of strings; returns dictionary of markov chains."""
+    c_dict = {}
 
-    return {}
+    for x in range(len(corpus)):
+        if x < (len(corpus)-2): # not in edge
+            bigram_tuple = tuple([corpus[x],corpus[x+1]])
+            if bigram_tuple in c_dict:
+                c_dict[bigram_tuple].append(corpus[x+2])
+            else:
+                c_dict[bigram_tuple] = [corpus[x+2]]
+
+    return c_dict
 
 
 def make_text(chains):
@@ -17,10 +26,16 @@ def make_text(chains):
 # be used by examining the `sys.argv` arguments (if neccessary, see the
 # Python docs for sys.argv)
 
-input_text = "Some text"
+filename = sys.argv[1]
+
+# Make a list of all the words as a string in the .txt file
+input_text = open(filename).read().strip("\n").split()
+
+
 
 # Get a Markov chain
 chain_dict = make_chains(input_text)
+
 
 # Produce random text
 random_text = make_text(chain_dict)
