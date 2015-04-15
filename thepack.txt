@@ -1,0 +1,137 @@
+3 THE PACK
+3.1 PACK DEFINITION
+3.1.1 The pack is defined by the largest group of in-bounds and upright Blockers in
+proximity and containing members from both teams.
+3.1.1.1 The Jammers are not part of the pack.
+3.1.1.2 Proximity is defined as not more than 10 feet (3 meters) (as measured
+from the hips) in front of or behind the nearest pack Skater.
+3.1.1.3 In order to form a pack, a team must have at least one Blocker on the
+track at all times.
+3.1.2 When two or more groups of Blockers equal in number are on the track, are more
+than 10 feet (3 meters) from one another, and no single group meets the pack
+definition, no pack can be defined. Skaters will be issued a penalty for intentionally
+creating a No Pack situation, or destroying the pack (see Section 5.10.2). Both
+teams are responsible for maintaining a legally defined pack. A Skater or group of
+Skaters is always responsible for the consequences of their actions. If their actions
+create a No Pack situation (except those covered in Section 5.10.2.3), they should
+be penalized as directed in Sections 5.10.11 – 5.10.21.
+3.1.2.1 Distances for determining the pack and the Engagement Zone are
+measured as the shortest distance parallel to the inside track boundary
+between Skaters’ hips (see Glossary for Hips).
+3.2 PRE-JAM POSITIONING
+3.2.1 At the start of a jam, all Skaters must be in position with the Blockers in front of the
+Jammers (see Section 2.1.2).
+3.2.1.1 Blockers are in position if they are between the Jammer Line and the
+Pivot Line (measured counter-clockwise) at the start of the jam. No
+Blockers may be touching the Jammer Line, and only the Pivots may
+be touching the Pivot Line when the jam starts. Blockers must be in a
+position, at the start of the jam, such that a pack exists behind the Pivot
+Line and in front of the Jammer Line either at or immediately after the
+jam-starting whistle.
+3.2.1.1.1 It is required that more than half of the on-the-track Blockers
+from each team begin in this pre-jam positioning. An Illegal
+Procedure penalty will be assessed to the Pivot in that jam of
+the team(s) that did not field enough Blockers in proper prejam
+position (see Section 5.13.8.2).
+3.2.1.1.1.1 If all of one team’s Blockers are lined up out of
+position per Section 3.2.1.1, a Delay of Game
+penalty should be issued when the 30 seconds
+between jams has expired (see Section 5.15.6).
+3.2.1.2 At the jam-starting whistle, Blockers are permitted to be either upright or
+down on one knee.
+3.2.1.2.1 Blockers may not intentionally take starting positions that
+purposefully prolong that Skater’s ability to return to an in-play
+position or a team’s ability to reform a pack (e.g., intentionally
+starting on one’s back, intentionally starting in a dog pile)
+(see Section 5.13.25).
+3.2.2 Pivot Starting Position: Only the Pivots may line up on the Pivot Line. Pivots are
+considered on the Pivot Line when they are upright and also touching the line.
+3.2.3 Non-Pivot Blocker Starting Positions: Blockers line up in any order behind the Pivots
+as demarked by the hips. If a Pivot is not upright and on the Pivot Line, Non-Pivot
+Blockers are not required to line up behind that Pivot.
+3.2.4 Jammer Starting Position: Jammers may line up anywhere between the Jammer
+Line and the Pivot Line (measured clockwise). Jammers may line up touching the
+Jammer Line, but may not be touching the Pivot Line.
+3.2.5 The pack and Jammers may begin rolling at the jam-starting whistle from the
+designated Official.
+3.2.6 Jammers may not be accelerating at the jam-starting whistle. They are, however,
+permitted to be moving, coasting, or braking.
+3.2.7 Skaters who line up completely outside of their legal starting area (but fully inside
+the track boundary) will be issued a penalty (see Section 5.13.8).
+3.2.8 Skaters who line up fully in bounds but in an illegal starting position (while touching
+their legal starting area) are considered to have committed a False Start, and will
+receive a False Start warning. Once warned, Skaters who False Start must cease
+all forward motion until they have yielded to all Skaters in the immediate vicinity
+by ceding relative position to those Skaters, or they may be issued a penalty (see
+Section 5.13.7).
+3.2.8.1 If, after the warning, no Skaters are in the immediate vicinity of a Skater
+who has false started (in the clockwise direction), the false-starting Skater
+must come to a complete stop in order to yield. After yielding, they may
+skate normally.
+3.2.8.2 If a false-starting Skater attempts to cede relative position (by coming
+to a stop), but no other Skaters make an attempt to take back said
+advantage, the false-starting Skater is no longer required to yield.
+3.2.8.3 Prior to yielding, a Blocker who has false started is not considered part of
+the pack.
+3.2.8.4 Prior to yielding, any Skaters passed by a false-starting Jammer do not
+count towards earning Lead Jammer status.
+3.3 JAM POSITIONING
+3.3.1 During the jam, Skaters must remain in play. Skaters who leave play may not
+engage, or be engaged, and must return to play. Skaters who engage while out of
+play, or who do not return to play, may be subject to penalties specified in Section
+5.10 - Out of Play.
+3.3.1.1 Skaters who are out of play may legally counter-block.
+3.3.2 Blockers must also maintain a pack at all times. When there is no pack, Blockers
+must immediately act to form a pack, and may be penalized if they fail to do so.
+Figure 1: In/Out of Play Example
+• In the diagram, Group C is the pack as it is the largest group
+of Blockers skating in proximity and containing members of
+both teams.
+• The two Blockers in Group B are not part of the pack because
+they are more than 10 feet (3 meters) from the nearest pack
+Skater, but are still considered “in play” as they are within 20
+feet (6 meters) of the nearest pack Skater.
+• The two Blockers in Group A are considered “out of play”
+since they are more than 20 feet (6 meters) from the nearest
+pack Skater. Skaters in Group A will be warned that they are
+out of play and will be penalized if they do not immediately
+thereafter attempt to return to the Engagement Zone. If they
+block or assist, they may also receive Out of Play penalties, regardless
+of whether they have been warned (see Section 5.10 - Out of Play).
+3.3.3 Blockers who are out of play will receive an Out of Play warning from a Referee. At
+this point, the Blocker must immediately attempt to return to play.
+3.3.3.1 While outside of the Engagement Zone, a Blocker must yield the right of
+way to the opposing Jammer by physically moving out of the Jammer’s
+path. Any engagement, including passive/positional blocking, may
+result in a penalty. A warning is not required before issuing a penalty for
+blocking while out of play (see Section 5.10 - Out of Play).
+3.3.3.2 A Blocker who is out of play must return to the Engagement Zone in the
+opposite way that Blocker left.
+3.3.3.2.1 If the Blocker exited the front of the Engagement Zone, that
+Blocker must drop back to legally return to play.
+3.3.3.2.2 To regain position after having fallen behind, a Blocker must
+return to the back of the Engagement Zone by skating within
+the track boundaries to legally return to play.
+3.3.3.2.3 Any Blocker who returns to the Engagement Zone in an illegal
+manner, such as lapping the pack or being lapped by the
+pack, is subject to penalties (see Sections 5.10.14 and 5.10.15).
+3.3.4 If no pack can be defined, all Blockers will receive a No Pack warning from a
+Referee. At this point, all Blockers must immediately attempt to reform the pack.
+3.3.5 Jammers are in play whenever they are upright and in bounds.
+3.3.5.1 If an out-of-play opposing Blocker initiates contact with a Jammer, the
+Jammer may legally counter-block.
+3.3.5.2 If a Jammer initiates contact with an out-of-play opposing Blocker, the
+Blocker may legally counter-block.
+3.3.6 Skaters may not engage, or be engaged, while out of bounds (except where
+specified in Section 5.8 - Out of Bounds Engagement).
+3.3.7 Skaters may not engage, or be engaged, while down (except where specified in
+Section 5.3 - Low Blocking and Section 5.16 - Misconduct/Gross Misconduct).
+3.3.8 Skaters may leave play mid-jam by removing themselves from the track, in order
+to remain safe. This includes but is not limited to a Skater leaving the track due to
+injury, or to adjust or reposition the Skater’s safety equipment or skates. Skaters who
+exit the track for other reasons may be subject to penalties under Section 5.12 -
+Skating Out of Bounds.
+3.3.9 Airborne Skaters retain their prior in-bounds,out-of-bounds, or straddling status until
+they land. Note that passes achieved while airborne do not count towards gaining
+lead, and do not earn points, unless the Skater also lands in bounds (see Section
+7.1.3.3).

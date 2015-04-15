@@ -33,7 +33,7 @@ in the infield or on the sidelines. Only those Skaters who are on the roster for
 game, plus up to two support staff per team, may sit or stand in the designated
 team area.
 Page 2
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 1.2.5 There will be a 10-foot (3-meter) clearance around the outside of the track for
 safety. If there is a rail, wall, or barrier between the track and the audience that
 completely prevents contact between spectators and contestants, a 5-foot
@@ -64,7 +64,7 @@ allowed in each period.
 on the fourth whistle of the jam-ending signal (see Section 1.10 - Whistles).
 1.5.3 There are 30 seconds between jams.
 Page 3
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 1.5.4 Any Skaters who are not completely in bounds at the jam-starting whistle will not be
 permitted to join the jam in progress. No penalty will be issued.
 1.5.5 Jammers and Pivots are permitted to put on their helmet covers after the jam
@@ -101,7 +101,7 @@ Officials have time to review a call or adjust the number of Skaters on the floo
 and a new jam will be run if there is time remaining on the Official Period
 Clock (see Sections 1.4.3 and 8.2.6.3). 
 Page 4
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 1.7.5 After a timeout, the Official Period Clock does not resume until the next jam starts,
 except as specified in Section 1.4.3.1.
 1.8 PENALTY BOX
@@ -133,7 +133,7 @@ teams, and audience members.
 1.9.4 Penalty Clocks
 1.9.4.1 All penalty clocks stop between jams (see Section 6.2.3 for procedure).
 Page 5
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 1.9.4.2 Penalty clocks are not required to be visible to Referees, teams, or
 audience members. While in the Penalty Box, Skaters may request
 knowledge of how much penalty time they have remaining.
@@ -172,7 +172,7 @@ Timeout Ended Long rolling
 Jam Called Off/Ended Four rapid
 Period/Game Ended Long rolling
 Page 6
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 1.11.1.3.4 The Head Referee will announce a decision. This decision is
 final.
 1.11.1.4 If the Captain or Designated Alternate does not request that a decision
@@ -208,7 +208,7 @@ but may not have any marks that might be confused with stripes or stars.
 cover to have any of the Pivot position rights or privileges; otherwise, the Skater who
 is holding the Pivot helmet cover is a Blocker with the only distinction being that 
 Page 7
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 they can gain those rights and privileges by putting the Pivot helmet cover on. The
 position of Pivot cannot be transferred. It is not mandatory to field a Pivot Blocker.
 2.2.1.1 A Pivot Blocker’s privileges include:
@@ -247,7 +247,7 @@ fielded a Jammer for that jam.
 wearing a helmet cover is considered an inactive Jammer (see Section
 2.3.3).
 Page 8
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 2.3.2.2 The Jammer’s helmet cover must have two stars that are a minimum of 4
 inches (10 cm) across, from point to point. Helmet cover base color and
 stars must be of high contrast and easily identifiable.
@@ -287,7 +287,7 @@ and regain eligibility for Lead Jammer status.
 2.4.2.2 To remain eligible for Lead Jammer, a Jammer must remain in bounds
 until they are within the Engagement Zone, the area in which the 
 Page 9
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Jammer may be legally engaged by a Blocker, during their initial pass.
 In the event of a No Pack situation or no Engagement Zone, a Jammer
 must remain in bounds until reaching within 20 feet (6 meters) of the
@@ -330,7 +330,7 @@ no Lead Jammer, the jam will run until the full two-minute time limit expires.
 for the duration of the jam unless the status is forfeited. Lead Jammer status (if
 obtained) and the ability to become Lead Jammer are forfeited by:
 Page 10
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 2.4.8.1 The Jammer removing the helmet cover for any reason.
 2.4.8.2 The Jammer being assessed a penalty.
 2.4.8.3 The Jammer having their helmet cover intentionally removed by
@@ -368,7 +368,7 @@ sole possession of the Star. Both Skaters retain their original status, and the 
 of the pass is penalized accordingly (see Section 5.13 - Illegal Procedures).
 2.5.3 A Star Pass may be blocked by the opposing team by any means of legal blocking.
 Page 11
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 2.5.4 Incomplete Star Passes and Recovery: If the Star falls to the ground for any reason
 or is removed from play by any means, it may only be recovered by the Jammer
 or Pivot.
@@ -408,8 +408,6 @@ standard, the Head Referee must require use of the alternate color
 helmet covers. If a team’s helmet cover colors are not identical but very
 similar, the Head Referee may enforce the helmet cover switch, but is not
 required to.
-Page 12
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 2.6.4.2 No helmets’ decorations, including numbers, should be able to be
 mistaken for a Jammer star or Pivot stripe. In the event of a challenge by
 the opposing team that meets this standard, the offending symbols on
@@ -450,7 +448,7 @@ game and serve any applicable penalties.
 should the Designated Alternate be unable to skate, coach, or
 manage the remainder of the game.
 Page 13
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 2.7.3 Skater names on uniforms are optional.
 2.7.4 Each Skater participating in a game must visibly display their roster number on the
 back of their uniform.
@@ -491,7 +489,7 @@ arm/sleeve. Numbers on hips or thighs must match roster numbers.
 2.7.5.2 Roster numbers may be placed on the helmet in addition to the arm/
 sleeve. Numbers on helmets must match roster numbers.
 Page 14
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 2.7.5.3 The minimum height for a Skater’s roster number on the arm/sleeve is 2
 inches (5 cm).
 2.7.5.4 The maximum height for a Skater’s roster number on the arm/sleeve is 4
@@ -504,7 +502,7 @@ with play or cause danger to other Skaters. Jewelry is worn at the risk of the w
 2.9.1 Skaters must wear quad roller skates only. Skaters may not wear inline or any other
 type of skate.
 3 THE PACK
-3.1 PAC K DEFINITION
+3.1 PACK DEFINITION
 3.1.1 The pack is defined by the largest group of in-bounds and upright Blockers in
 proximity and containing members from both teams.
 3.1.1.1 The Jammers are not part of the pack.
@@ -524,7 +522,7 @@ be penalized as directed in Sections 5.10.11 – 5.10.21.
 measured as the shortest distance parallel to the inside track boundary
 between Skaters’ hips (see Glossary for Hips).
 Page 15
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 3.2 PRE-JAM POSITIONING
 3.2.1 At the start of a jam, all Skaters must be in position with the Blockers in front of the
 Jammers (see Section 2.1.2).
@@ -566,7 +564,7 @@ permitted to be moving, coasting, or braking.
 3.2.7 Skaters who line up completely outside of their legal starting area (but fully inside
 the track boundary) will be issued a penalty (see Section 5.13.8).
 Page 16
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 3.2.8 Skaters who line up fully in bounds but in an illegal starting position (while touching
 their legal starting area) are considered to have committed a False Start, and will
 receive a False Start warning. Once warned, Skaters who False Start must cease
@@ -615,7 +613,7 @@ C
  3.3 m
 11 feet
 Page 17
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 3.3.3 Blockers who are out of play will receive an Out of Play warning from a Referee. At
 this point, the Blocker must immediately attempt to return to play.
 3.3.3.1 While outside of the Engagement Zone, a Blocker must yield the right of
@@ -654,7 +652,7 @@ they land. Note that passes achieved while airborne do not count towards gaining
 lead, and do not earn points, unless the Skater also lands in bounds (see Section
 7.1.3.3).
 Page 18
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 4 BLOCKING
 4.1 GENERAL BLOCKING
 4.1.1 “Blocking” refers to any physical contact made to an opponent, and to any
@@ -686,7 +684,7 @@ a standstill) in the counter-clockwise direction may block or engage an opponent
 at any time during the jam after the jam-starting whistle has blown (see Section 5.9 -
 Direction of Game Play).
 Page 19
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 4.2 BLOCKING AND TARGET ZONES
 Contact between opponents is limited to legal blocking zones and legal target zones.
 4.2.1 Legal Target Zones: A Skater may be hit in the following locations:
@@ -712,7 +710,7 @@ Skaters may not initiate contact with the following parts of the body:
 4.2.4.3 The head
 4.2.4.4 Below mid-thigh
 Page 20
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Figure 2: Legal Target and Blocking Zones
 Legal Target Zones: The shaded regions are the legal areas to block an opponent.
 Legal Blocking Zones: The shaded regions are the legal areas with which a Skater can block.
@@ -725,7 +723,7 @@ Penalties and warnings are signaled and enforced by the Officials as they occur 
 approved verbal cues). Some infractions do not have sufficient impact on the game to warrant
 a penalty.
 Page 21
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 TYPES OF PENALTIES
 The following penalties are addressed in detail in the sections listed below. These sections hold
 specific examples that are to be followed explicitly. Illegal actions not specified below must be
@@ -752,7 +750,7 @@ Illegal Non-Contact Penalties
 Illegal Conduct
 5.16 Misconduct/Gross Misconduct 
 Page 22
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.1 BLOCKING TO THE BAC K
 Hitting an opponent in the back of the torso, back of the legs, or back of the buttocks
 is prohibited (see Section 4.2.2 - Illegal Target Zones). Hitting an opponent with a legal
@@ -782,7 +780,7 @@ No Impact/No Penalty
 Penalty
 5.2.2 Any block with forceful contact landing above the shoulders. 
 Page 23
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Expulsion
 The following egregious acts making contact above the shoulders of an opponent will be
 automatic game expulsions. Expulsions will be issued for a conscious and forceful attempt
@@ -815,7 +813,7 @@ zone and causes an opponent to fall or lose relative position.
 below the legal blocking/target zone that causes an opponent to fall or lose
 relative position.
 Page 24
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.3.9 Any contact initiated with or to any part of the body below the legal blocking/
 target zone allowing the initiator or any teammate to gain position, or causing any
 opponent to lose relative position.
@@ -848,7 +846,7 @@ downward motion.
 5.4.5 Elbows may not be used to hook an opponent in any way (e.g., by wrapping one’s
 arm around an opponent’s arm).
 Page 25
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 No Impact/No Penalty
 5.4.6 Any illegal contact with the elbow or swinging motion of the elbow that forces
 the receiving opponent off balance, forward, and/or sideways but does not
@@ -880,7 +878,7 @@ off balance, forward, and/or sideways but does not cause the opponent to lose
 relative position or the initiator or a teammate to gain relative position. For example,
 a slight but observable push with the hands or forearms.
 Page 26
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Penalty
 5.5.6 Any illegal forearm or hand contact to an opponent that forces the receiving
 opponent off balance, forward, and/or sideways and causes the opponent to lose
@@ -913,7 +911,7 @@ Penalty
 balance, forward, and/or sideways and causes an opponent to lose relative
 position, or the initiator or teammate to gain relative position.
 Page 27
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.6.4 Initiating a block with the head that includes physical contact, regardless of impact
 or advantage.
 Expulsion
@@ -947,7 +945,7 @@ Penalty
 5.7.8 Grasping a teammate in a manner that, upon a physical challenge by an
 opponent, prevents said opponent from passing between said teammates.
 Page 28
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.7.8.1 The penalty will be issued to the grasper. If both teammates are grasping,
 the penalty will be issued to the grasper closest to the Referee.
 5.7.9 Linking with a teammate in a manner that, upon a physical challenge by an
@@ -981,7 +979,7 @@ track boundary.
 5.8.7 Downed Skaters returning to the track are subject to Blocking Out of Bounds
 penalties, even if the downed Skater has “fallen small.”
 Page 29
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Examples of Legal Play
 5.8.8 Executing a block on an opponent who is straddling.
 5.8.9 Continuing a block on a Skater who is completely out of bounds, so long as the
@@ -1019,7 +1017,7 @@ The following egregious acts will be automatic game expulsion. Expulsions will b
 for a conscious and forceful attempt to block an out-of-bounds opponent in an
 egregious manner.
 Page 30
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.8.20 Negligent or reckless contact to an out-of-bounds opponent.
 5.8.21 Initiating negligent or reckless contact to an opponent by a Skater who is out of
 bounds.
@@ -1055,7 +1053,7 @@ Examples of Legal Play
 5.9.9 A Skater who, while stopped, helps a downed teammate to an upright position.
 5.9.10 A Skater who, while stopped, assists a stopped teammate.
 Page 31
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.9.11 A Skater coming to a stop as a result of giving an assist.
 No Impact/No Penalty
 5.9.12 Incidental contact from a Skater getting spun around as a result of another block.
@@ -1087,7 +1085,7 @@ that improves the recipient’s relative position.
 5.9.21 Actively maintaining a stopped position (e.g., via braking or receiving an assist), or
 maintaining clockwise momentum, while impeding an opponent.
 Page 32
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Expulsion
 The following egregious acts will be automatic game expulsions. Expulsions will be issued
 for a conscious and forceful attempt to block an opponent in an egregious manner while
@@ -1126,7 +1124,7 @@ as directed in Section 5.10.17, regardless of intent. When determining
 responsibility of a No Pack situation, per Sections 3.1.2 and 5.10.2, both
 teams are responsible for maintaining a legally defined pack.
 Page 33
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.10.2.3 Pack destructions as a result of normal game play are not to be
 considered illegal pack destructions and should not be penalized.
 Skaters still must reform a pack immediately or be subject to Out of Play
@@ -1166,7 +1164,7 @@ or counter-clockwise would potentially reform a pack, a Blocker may
 skate either clockwise or counter-clockwise (per Section 5.10.5 or
 Section 5.10.6).
 Page 34
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.10.6 An attempt to reform is considered “immediate” if the action is taken as soon as
 legally possible. If an immediate action is not sufficient to reform the pack, however,
 additional effort is required. If a Blocker is in the rear group, they must accelerate
@@ -1205,7 +1203,7 @@ scenario may be penalized in this manner.
 5.10.14 A Blocker returning to the Engagement Zone from behind, having lapped the pack.
 A penalty must be applied to each offending Blocker (see Section 3.3.3.2).
 Page 35
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.10.15 A Blocker returning to the Engagement Zone from the front, having fallen behind the
 pack. A penalty must be applied to each offending Blocker (see Section 3.3.3.2).
 5.10.16 Any illegal blocking while out of play that forces the receiving opponent out of their
@@ -1242,7 +1240,7 @@ Downed Skaters are not to be penalized with Cutting the Track penalties (until u
 are still subject to Low Blocking and Blocking From Out of Bounds penalties. Skaters cannot
 drop back while in play in efforts to undo or avoid Cutting the Track penalties.
 Page 36
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.11.1 Returning Behind the Initiator of the Block: When put into an out-of-bounds (or
 straddling) position by a block, an opponent must return to the track without
 improving their relative position. Returning to the track in front of the initiator of the
@@ -1283,7 +1281,7 @@ of Bounds).
 penalties prior to the Skater returning in bounds, even before said Skaters’ penalties
 have been assessed.
 Page 37
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 No Pass/No Penalty
 While no penalty should be given for instances of “No Pass/No Penalty” infractions, neither
 should this be considered a legal pass of the person being passed. This may result in, for
@@ -1317,7 +1315,7 @@ from the Penalty Box.
 5.12.2 Exiting the track of one’s own accord in order to avoid an obstacle (e.g., spills,
 debris, or downed Skaters).
 Page 38
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.12.3 Exiting the track as a result of receiving a block.
 5.12.4 Exiting the track as a result of executing a block, or missing a block.
 5.12.5 Exiting the track of one’s own accord as a result of injury.
@@ -1351,7 +1349,7 @@ Penalty
 short. For example:
 5.12.16.1 Cutting across the infield on the way to the Penalty Box.
 Page 39
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.12.16.2 Repeatedly cutting small amounts of the lap distance short, which
 together add up to a significant portion of lap distance having been cut
 short over the course of the game.
@@ -1383,7 +1381,7 @@ return to the box and finish the penalty.
 5.13.3 Too many Skaters on the track. The extra Skater is instructed to return to the bench
 without stopping the jam. 
 Page 40
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.13.4 More than one designated Pivot for a team on the track after the jam-starting
 whistle. The Skater at fault is the Pivot who was the last Pivot to enter the track in
 that jam. If the Referee is unable to determine the last Pivot to enter the track, the
@@ -1423,7 +1421,7 @@ medical matters.
 communicate with a penalized Skater, this penalty will be issued to their
 team’s Captain.
 Page 41
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.13.11 A penalized Skater who removes safety equipment while in the Penalty Box. A
 penalized Skater may remove their mouth guard only after being seated in the
 Penalty Box. Merely adjusting safety equipment while in the Penalty Box is not to
@@ -1463,7 +1461,7 @@ behavior expected from an audience member. This includes returning to the
 designated team area during the remainder of the game. This penalty is to be
 assessed to that Skater’s team’s Captain.
 Page 42
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.13.24 An expelled Skater failing to leave the track or staging area, or returning to the
 track area after they have been expelled. This includes returning to the designated
 team area during the remainder of the game. This penalty is to be assessed to that
@@ -1499,7 +1497,7 @@ the Referee’s position, and the constraints and volume of the venue.
 Official. If no one can be singled out as the offending party, but it is clearly coming
 from a Skater, this penalty will be issued to the corresponding Captain.
 Page 43
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Expulsion
 5.14.5 Willfully failing to leave the floor after fouling out.
 5.14.6 The repeated use of obscene, profane, or abusive language or gestures directed at
@@ -1533,7 +1531,7 @@ will be assessed to the Captain.
 5.15.8 Both teams failing to field a Jammer, preventing a jam from beginning. One penalty
 will be issued to each Captain.
 Page 44
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.15.9 A team successfully requesting a team timeout when they have none remaining.
 Penalty will be assessed to the Captain.
 5.15.10 A Skater, having previously had the jam called off for injury, being on the track at
@@ -1571,7 +1569,7 @@ cause the opponent to lose their established starting position.
 whistle that forces the opponent slightly off balance, forward, or sideways but does
 not cause the opponent to fall.
 Page 45
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 Penalty (Misconduct)
 5.16.8 Initiating contact with both skates off of the ground that forces the receiving
 opponent out of established position. This includes forcing an opponent down, out
@@ -1612,7 +1610,7 @@ that allows the initiator to gain a superior starting position. This includes ga
 a legal starting position (gaining an in-bounds or legal starting position via the
 contact), or breaking a wall of opponents. 
 Page 46
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 5.16.19 A Skater initiating contact or engaging an opponent after the fourth jam-ending
 whistle that forces the receiving opponent down or severely off balance, forward, or
 sideways.
@@ -1647,7 +1645,7 @@ Section 6.2.2).
 have been sent to the Penalty Box, once the action that warrants a
 penalty has been committed.
 Page 47
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 6.1.1.2 No Skater, including the Skater who has earned the penalty, can be held
 responsible for behaving as if a penalty has been assessed until the
 Official has completed the appropriate hand signals and verbal cues.
@@ -1687,7 +1685,7 @@ to the track.
 6.2.1.1 Penalized Skaters must be substituted in the case of a Skater who has
 been injured, fouled out, or expelled (see Sections 9.3, 6.4.1, and 6.4.2, 
 Page 48
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 respectively). These substitutions may only take place between jams. A
 Skater who has fouled out or has been expelled is not permitted to return
 to play and that Skater’s team must skate a Skater short for the remainder
@@ -1732,7 +1730,7 @@ track and has joined the pack.
 Blocker’s team, the third Blocker will be waved off by the Penalty Timer. If
 there is an empty seat (e.g., because there are fewer than 10 seconds 
 Page 49
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 left on penalties currently being served, resulting in a Blocker vacating a
 seat), the third Blocker may be seated as normal. If a Blocker is waved off,
 they must return to the track as described in Section 6.2.7. A Jammer can
@@ -1775,7 +1773,7 @@ be granted.
 the Penalty Box. No other equipment may be removed while a Skater is in the
 designated Penalty Box Area (see Section 5.13.11).
 Page 50
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 6.2.7 After being released from the Penalty Box, a penalized Skater may return to the
 track. A Skater may skate clockwise in the clearance around the outside of the
 track when exiting the Penalty Box (see Section 5.13.17).
@@ -1815,7 +1813,7 @@ Jammers will return to play following completion of any required penalty time.
 will serve 10 seconds before they are simultaneously released back into play by the
 Penalty Box Official. In all other cases, no minimum time to serve will be required.
 Page 51
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 6.3.3 If any jam ends with one Jammer in the box and the second Jammer skating
 toward the box after being sent off the track, the penalty time for the Jammer who
 is already in the box will end with the fourth jam-ending whistle. That Jammer will
@@ -1859,7 +1857,7 @@ comes first.
 opposing team’s Jammer leaves the jam due to an injury, the jam will be whistled
 dead after it has been determined by the Referee that the Jammer will not be 
 Page 52
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 returning to play. A new jam will be started with the penalized Jammer still in the
 box serving the remainder of the required penalty time and the opposing team
 fielding a new Jammer.
@@ -1900,7 +1898,7 @@ assessed to that Skater.
 6.4.1.1. This includes penalties assessed to the Pivot or Captain for actions that
 other people committed (see Sections 6.1.4–6.1.5)
 Page 53
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 6.4.1.1.1 This does not include time served without a penalty being
 recorded (see Section 6.4.2.3.1).
 6.4.1.2 When a Skater fouls out of a game, that Skater must immediately leave
@@ -1945,7 +1943,7 @@ area (such as the stands) where the expelled Skater can interfere with Skaters o
 track. The expelled Skater is not allowed to participate in the remainder of the game
 in any way.
 Page 54
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 6.4.5 Timing a Fouled Out/Expelled Skater’s Penalty
 The team of a Skater who is ejected from a game, either due to an expulsion or
 fouling out, must play down a Skater in the ejected Skater’s position, as if a penalty
@@ -1981,7 +1979,7 @@ point for passing an opponent, the Jammer must:
 wearing the Jammer helmet cover with the stars visible, without
 committing penalties. 
 Page 55
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 7.1.3.2 Any legal pass counts. If a Jammer becomes ineligible for a point by
 committing an illegal action or passing while out of bounds, the Jammer
 is allowed an opportunity to re-pass and score the point.
@@ -2019,7 +2017,7 @@ considered their initial pass.
 Engagement Zone, they will return to the pass they had been on prior to
 having ever been lapped (see Section 7.1.3.5).
 Page 56
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 7.2 POINTS
 7.2.1 Points are earned when the Jammer passes each opponent, including those
 who have been knocked to the floor, are out of play, or are considered to be in
@@ -2062,7 +2060,7 @@ Engagement Zone (see Section 7.1.3.5).
 7.2.2.1 Once a scoring pass is complete (see Section 7.1.3.5), a Jammer cannot
 score points unearned in their previous scoring pass.
 Page 57
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 7.2.3 Points are earned until the end of the fourth whistle of the jam-ending signal.
 7.2.4 If the jam ends when the Jammer is still in the pack, the points for any passed
 opponents will be announced immediately.
@@ -2104,7 +2102,7 @@ Timeouts as necessary to ensure that the score is correct prior
 to the start of such a jam.
 7.2.7 Jammers cannot score points while in the Penalty Box.
 Page 58
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 7.2.7.1 When the Jammer finishes serving a penalty, the Jammer continues
 their scoring pass exactly where the Jammer left off. For example: If the
 Jammer has scored on opposing Blockers A and B when sent to the
@@ -2135,7 +2133,7 @@ NOTT Point on the opposing Jammer, the scoring Jammer cannot also
 score a Jammer Lap Point until they have once again completely lapped
 the opposing Jammer while both Jammers are on the track.
 Page 59
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8 OFFICIALS
 8.1 STAFFING
 8.1.1 Each game will have no fewer than three skating Referees and no more than seven
@@ -2172,7 +2170,7 @@ Referees in ensuring a team skates short when they ought.
 Scoreboard Operator posts the score from the Scorekeepers, and keeps
 the Official Period Clock, Jam Clock, and Score up-to-date. 
 Page 60
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8.1.5.5 Jam Timer: A game will have one Jam Timer. The Jam Timer is responsible
 for starting jams and for timing 30 seconds between jams. The Jam Timer
 is also responsible for ending jams that run the full two minutes.
@@ -2210,7 +2208,7 @@ duration of the jam.
 according to the guidelines laid out in Section 7 - Scoring. They must communicate
 this score (per Section 7.2.2) after the Jammer completes each scoring pass.
 Page 61
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8.2.5 Safety is the number one priority for Referees. Illegal game play that causes an
 unsafe environment is not to be tolerated. The Referees are to assess and enforce
 penalties and expulsions as described in Section 5 - Penalties and Section 6 - Penalty
@@ -2248,7 +2246,7 @@ hands on their hips.
 8.2.6.2.2 End of two-minute jam clock or the end of the period’s final jam.
 8.2.6.2.3 An injury that is a safety hazard to continued game play.
 Page 62
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8.2.6.2.4 Fighting.
 8.2.6.2.5 Technical difficulty or mechanical malfunction (including
 equipment and skate malfunctions) that is a safety hazard to
@@ -2285,7 +2283,7 @@ that would interfere with proper game play.
 only the Captains or their Designated Alternates may discuss the ruling with the
 Referees. Skaters, coaches, or managers may act as Designated Alternates.
 Page 63
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8.3 OFFICIATING DISCRETION
 8.3.1 The consensus of the Officials will be the final decision on any disputed point that
 is not clearly spelled out in these rules. An Official may increase the severity of
@@ -2325,7 +2323,7 @@ that involve blocks or assists.
 8.3.7.2 NSOs who are empowered to call penalties in this manner are bound by
 the same requirements as Referees, per Section 8.3 - Officiating Discretion.
 Page 64
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 8.4 REQUIRED EQUIPMENT
 8.4.1 Referees are permitted to wear inline skates, but are strongly encouraged to wear
 quad skates.
@@ -2351,7 +2349,7 @@ liability insurer:
 8.4.5.3 Wrist guards
 8.4.5.4 Elbow pads
 Page 65
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 9 SAFETY
 9.1 PROTECTIVE GEAR
 9.1.1 Protective gear must be worn while skating in a jam, including to and from the
@@ -2387,7 +2385,7 @@ up and game.
 9.2.2 Captains are responsible for supplying medical personnel with their Skaters’
 medical and/or emergency contact information as necessary.
 Page 66
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
+
 9.3 INJURED SKATERS
 9.3.1 If a Skater sustains an injury serious enough that the Referees call off the jam, the
 Skater must sit out the next three jams.
@@ -2409,8 +2407,6 @@ danger to other Skaters (as determined by the Head Referee).
 9.4.1 Skaters may not participate in a game while under the influence of alcohol,
 narcotics, or illegal drugs.
 9.4.2 Skaters may not consume alcohol at games while wearing skates.
-Page 67
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 10 GLOSSARY
 Some words or concepts used in this ruleset hold a specific or technical meaning. Those are
 defined in this section. Any words used in the rules that are not defined herein should be treated
@@ -2447,8 +2443,6 @@ stead; this person is the Designated Alternate. The Designated
 Alternate may be a teammate, coach, or manager. They must
 be one of the 16 individuals described in Section 1.2.4. A team
 may only have one Designated Alternate. 
-Page 68
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Down Skaters are considered down if they have fallen, been knocked
 to the ground, have either or both knees on the ground, or
 have both hands on the ground. After going down or falling, a
@@ -2489,8 +2483,6 @@ Hips The laterally-projecting prominence of the pelvis or pelvic
 region from the waist to the thigh. The central point of this area
 determines a pass, regardless of the direction the Skater is
 facing.
-Page 69
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Illegal Procedure A technical infraction that gives the offending team an
 advantage but does not directly impact a specific opponent.
 Immediately The first legal opportunity in which a Skater may complete
@@ -2531,8 +2523,6 @@ own assist.
 Initiator of the Block The Skater who makes contact with a target zone of an
 opponent is the initiator of the block. The initiator of a block is
 always responsible for the legality of the contact.
-Page 70
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Insubordination Willfully or neglectfully failing to comply with a Referee’s orders.
 Wrongful or improper behavior motivated by intentional
 disregard for the rules (see Section 5.14 - Insubordination).
@@ -2573,8 +2563,6 @@ proximity to each other (see Proximity).
 Not-On-the-Track Point (NOTT Point) A point given for an opponent who is not on the track that the
 Jammer earns immediately upon scoring the first point on any
 opposing Blocker in each scoring pass (see Section 7.2.1.1).
-Page 71
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Officiating Number Any sort of shortened or otherwise modified version
 of a Skater’s roster number, used in order to facilitate
 communication amongst Officials.
@@ -2615,8 +2603,6 @@ outlined in Section 2.2 - Pivot Blocker.
 Point of No Return The far edge of the Penalty Box, in the counter-clockwise
 direction (see Section 6.2.2.1.1), including its projection across
 the track.
-Page 72
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Points Awarded in Error Points that have not been legally earned by a Jammer
 and have been awarded to the team incorrectly and/or
 erroneously by an Official or as the result of a technology
@@ -2651,8 +2637,6 @@ Scoring Pass Any pass a Jammer makes through the pack after the
 completed initial pass. Points may only be earned on scoring
 passes. A Jammer Lap Point is independent of this definition
 (see Section 7.1 - Passes; Pass; and Initial Pass).
-Page 73
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby. Second Edition January 1, 2015
 Sitting A Skater whose buttocks are in full contact with the seat of a
 chair or bench.
 Skating Using one’s skates to move. This can include stepping in any
@@ -2681,7 +2665,3 @@ legal vs. illegal target zones).
 Upright Any Skater who is not considered “down” (see Down).
 Warning A formal verbal indication from the Referee that play is
 improper and that a Skater must take corrective action.
-Appendix A:
-WFTDA Track Design and Specifications
-Page 74
-© 2015 Women’s Flat Track Derby Association (WFTDA) Rules of Flat Track Roller Derby Jan. 1, 2015
