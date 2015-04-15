@@ -5,17 +5,15 @@ def make_chains(corpus):
     """Takes input list of strings; returns dictionary of markov chains."""
     c_dict = {}
 
-    for x in range(len(corpus)):
-        if x < (len(corpus)-2): # not in edge
-            bigram_tuple = tuple([corpus[x],corpus[x+1]])
-            if bigram_tuple in c_dict:
-                c_dict[bigram_tuple].append(corpus[x+2])
-            else:
-                c_dict[bigram_tuple] = [corpus[x+2]]
+    for i in range(len(corpus)):
+        if i < (len(corpus)-2): # not in edge
+            bigram_tuple = tuple([corpus[i],corpus[i+1]])
+
+            c_dict.setdefault(bigram_tuple, []).append(corpus[i+2])
+
         else:
             bigram_tuple = tuple([corpus[-2],corpus[-1]]) # ran twice. Why?
             c_dict.setdefault(bigram_tuple) # could set a default word? Empty list?
-
     return c_dict
 
 
