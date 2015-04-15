@@ -23,6 +23,10 @@ def make_text(chains):
     """Takes dictionary of markov chains; returns random text."""
 
     key = random.choice(chains.keys())
+
+    while not key[0][0].isupper():
+        key = random.choice(chains.keys())
+
     return_string = key[0] + " " + key[1]
 
     while chains[key] != None: #chains.get(key[-1]) != None: # or len(return_string) =< 140
@@ -30,6 +34,8 @@ def make_text(chains):
         if len(return_string + " " + next_word) > 140:
             break
         return_string = return_string + " " + next_word
+        if return_string[-1] in [".", "!", "?"]:
+            break
         key = (key[1],next_word)
 
     return return_string
